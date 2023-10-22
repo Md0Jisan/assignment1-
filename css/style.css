@@ -1,0 +1,50 @@
+*{
+    font-family: sans-serif;
+    margin: 0px;
+}
+/* header style */
+.h-bg{
+    
+    height: 808px;
+    background-image: url(../images/banner/banner3.png);
+    background-repeat: no-repeat;
+    background-size: 1300px;
+    background-blend-mode: darken;
+}
+.h-tittle{
+    max-width: 525px;
+    max-height: 228px;
+}
+.head{
+    padding-top: 116px;
+    padding-left: 600px;
+    padding-bottom: 24px;
+    font-size: 40px;
+    color: aliceblue;
+    text-align: right;
+}
+.h-paragraph{
+    text-align: right;
+    margin-left: 700px;
+    margin-right: 150px;
+    margin-bottom: 32px;
+    color: white;
+    font-size: 16px;
+}
+/* head-btn style */
+.head-btn{
+    margin-left: 950px;
+    height: 64px;
+    width:160px ;
+    padding: 22px;
+    font-size: 20px;
+    color: #005FAC;
+    background-color: white;
+    border-radius: 5px;
+}
+.head-btn:hover{
+    color: black;
+    background-color:bisque;
+    box-shadow: #333435 4px 7px 10px ;
+}
+
