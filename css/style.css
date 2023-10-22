@@ -126,3 +126,79 @@
     font-size: 25px;
     margin-left: 135px;
  }
+ /* part3 style */
+ .part3{
+    margin-top: 130px;
+    margin-left: 180px;
+ }
+ .p3{
+    background-image: url(../images/gradient1.png) ,url(../images/watch.png);
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: 900px;
+ }
+ .p3-head{
+    color: white;
+    font-size: 30px;
+    padding-top: 50px;
+    padding-left: 65px;
+    padding-right: 600px;
+    padding-bottom: 25px;
+ }
+ .part3-btn{
+    height: 64px;
+    width:160px ;
+    padding: 22px;
+    font-size: 20px;
+    color: #005FAC;
+    background-color: white;
+    border-radius: 5px;
+    margin-left: 65px;
+ }
+ .part3-btn:hover{
+    color: black;
+    background-color:bisque;
+    box-shadow: #333435 4px 7px 10px ;
+ }
+ /* footer */
+ .footer{
+    display: flex;
+     width: 1263px;
+    height: 577px;
+    background-color: #151414;
+ }
+ .footer-style{
+   
+ }
+ .f-head{
+    color: white;
+    font-size: 45px;
+    padding-top: 130px;
+    padding-left: 200px;
+ }
+ .f-paragraph{
+    padding-top: 16px;
+    padding-left: 200px;
+    line-height: 26px;
+    color: white;
+    width: 450px;
+ }
+ .f-gmail{
+    color: white;
+    padding-top: 24px;
+    padding-left: 200px;
+    font-size: 15px;
+ }
+ .f-number{
+    color: white;
+    padding-top: 16px;
+    padding-left: 200px;
+    font-size: 15px;
+ }
+ .f-img{
+    padding-top: 32px;
+    padding-left: 200px;
+ }
+ .img-gap{
+    padding-right: 10px;
+ }
