@@ -163,12 +163,10 @@
  /* footer */
  .footer{
     display: flex;
+    gap: 170px;
      width: 1263px;
     height: 577px;
     background-color: #151414;
- }
- .footer-style{
-   
  }
  .f-head{
     color: white;
@@ -202,3 +200,34 @@
  .img-gap{
     padding-right: 10px;
  }
+ /* footer head2 */
+ .f-head2{
+    color: white;
+    font-size: 25px;
+    padding-top: 130px;
+    padding-bottom: 16px;
+ }
+ input{
+    color: #F3F3F3;
+    font-size: 18px;
+    height: 40px;
+    background-color: #151414;
+    padding-left: 10px;
+    border-radius: 5px;
+    margin-bottom: 16px;
+ }
+ .footer-btn{
+    height: 64px;
+    width:160px ;
+    padding: 22px;
+    font-size: 20px;
+    color: white;
+    background-color: #005FAC;
+    border-radius: 5px;
+ }
+ .footer-btn:hover{
+    color: black;
+    background-color:chartreuse;
+    box-shadow: #333435 4px 7px 10px ;
+ }
+ /* The End */
